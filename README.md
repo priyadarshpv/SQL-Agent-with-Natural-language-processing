@@ -1,4 +1,4 @@
-# NL2SQL Agent: Natural Language to SQL Query Generator
+# NL2SQL Agent: Natural Language to SQL Query Generation and Execution
 
 **NL2SQL Agent** is a powerful tool that enables users to interact with SQL databases using natural language. It leverages state-of-the-art language models (LLMs) to convert natural language queries into SQL queries, executes them on a MySQL database, and returns the results in a user-friendly format. This project is built using the **LangChain framework** and integrates with the **Groq API** for natural language processing.
 
