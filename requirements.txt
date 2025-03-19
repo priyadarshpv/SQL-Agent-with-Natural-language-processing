@@ -1,0 +1,6 @@
+langchain==0.1.0
+langchain-groq==0.1.0
+mysql-connector-python==8.0.33
+pandas==2.0.3
+python-dotenv==1.0.0
+sqlparse==0.4.4
